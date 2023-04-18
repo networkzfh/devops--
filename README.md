@@ -1,3 +1,8 @@
+本回购包含关于各种技术主题的问题和练习，有时与DevOps和SRE有关
+📊  目前有2624个练习和问题
+⚠️  你可以用这些来准备面试，但大多数问题和练习并不代表真正的面试。请阅读常见问题页面了解更多详细信息
+🛑  如果你有兴趣从事DevOps工程师的职业，学习这里提到的一些概念会很有用，但你应该知道，这并不是学习这个存储库中提到的所有主题和技术
+📝  您可以通过提交拉取请求来添加更多练习：）在此处阅读有关贡献指南
 <p align="center"><img src="images/devops_exercises.png"/></p>
 
 :information_source: &nbsp;This repo contains questions and exercises on various technical topics, sometimes related to DevOps and SRE
